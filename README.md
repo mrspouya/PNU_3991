@@ -178,7 +178,8 @@
 <details>
     <summary>رزومه - انگیزه نامه</summary>
    
-> ## رزومه چیست و چگونه آنرا آماده نمائیم   
+> ## رزومه چیست و چگونه آنرا آماده نمائیم
+- [Effective Resume Writing](https://www.tutorialspoint.com/effective_resume_writing.htm)   
 - [رزومه چیست؟](https://karboom.io/mag/articles/%D8%B1%D8%B2%D9%88%D9%85%D9%87-%DA%86%DB%8C%D8%B3%D8%AA)
 
 > ## (SOP)انگیزه نامه
@@ -244,6 +245,9 @@
 <a name="Latex"></a>
 <details>
     <summary>لاتک</summary>
+    
+> ##  تلفظ لاتک
+ - [Pronouncing and writing LaTeX](https://en.wikipedia.org/wiki/LaTeX#Pronouncing_and_writing_%22LaTeX%22)
 
 > ## LaTeX آموزش 
 - [LaTeX آموزش دکتر مس فروش ](http://mesforush.staff.shahroodut.ac.ir/category/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-latex/)
